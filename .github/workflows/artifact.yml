@@ -1,4 +1,4 @@
-name: Artifact
+name: Upload Artifact
 
 on: [push]
 
